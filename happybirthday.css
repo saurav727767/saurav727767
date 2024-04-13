@@ -1,0 +1,48 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    width:100%;
+}
+html{
+    font-size: 100%;
+    width:100%;
+}
+body{
+    width:100%;
+    background-position:fixed;
+    background-size:cover;
+    background-image:url(./css/forest.jpg);
+}
+.happy{
+    width:100%;
+    font-size: 80px;
+    font-weight: bold;
+    text-decoration: solid;
+    color: darkmagenta;
+    display: flex; 
+    margin-top:50px;
+}
+img{
+    width:100%;
+    
+    margin-bottom: 100px;
+    margin-top:40px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.my{
+    width:100%;
+    font-size: 40px;
+    color: brown;
+}
+.birthday{
+    width:100%;
+    font-size: 80px;
+    font-weight: bold;
+    text-decoration: solid;
+    color: darkmagenta;
+    display: flex; 
+    margin-top:10px;
+    margin-bottom: 50px;
+}
